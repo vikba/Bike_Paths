@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bike Infrastructure Monitor</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.css"
+    />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="toolbar">
+      <div class="toolbar-left">
+        <strong id="cityName">City</strong>
+      </div>
+      <div class="toolbar-controls">
+        <label><input type="checkbox" id="toggleSegments" checked /> Lanes</label>
+        <label><input type="checkbox" id="toggleIssues" checked /> Issues</label>
+        <button id="saveBtn">Save</button>
+        <select id="downloadType">
+          <option value="segments">Download lanes</option>
+          <option value="issues">Download issues</option>
+        </select>
+        <button id="downloadBtn">Download</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section id="map"></section>
+
+      <aside id="sidebar" class="sidebar collapsed">
+        <div class="sidebar-head">
+          <h2>Feature</h2>
+          <button id="closeSidebar">Close</button>
+        </div>
+        <div id="sidebarBody" class="sidebar-body">
+          <p class="muted">Select a feature to edit properties.</p>
+        </div>
+      </aside>
+    </main>
+
+    <div class="legend">
+      <h3>Legend</h3>
+      <div><span class="swatch seg-excellent"></span> Excellent</div>
+      <div><span class="swatch seg-good"></span> Good</div>
+      <div><span class="swatch seg-satisfactory"></span> Satisfactory</div>
+      <div><span class="swatch seg-bad"></span> Bad</div>
+      <hr />
+      <div><span class="dot issue-low"></span> Low issue</div>
+      <div><span class="dot issue-medium"></span> Medium issue</div>
+      <div><span class="dot issue-high"></span> High issue</div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.js"></script>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

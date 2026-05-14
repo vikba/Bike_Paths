@@ -1,0 +1,8 @@
+{
+  "city_name": "Palermo",
+  "default_center": [38.1157, 13.3615],
+  "default_zoom": 12,
+  "bounding_box": [13.25, 38.05, 13.5, 38.2],
+  "cycle_segments_file": "data/cycle_segments.geojson",
+  "cycle_issues_file": "data/cycle_issues.geojson"
+}

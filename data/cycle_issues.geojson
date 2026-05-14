@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 101,
+        "segment_fid": "seg_roma_001",
+        "issue_type": "parked_cars",
+        "severity": "high",
+        "status": "open",
+        "description": "Cars block the lane in peak hours",
+        "reported_by": "civic_group_a",
+        "reported_at": "2026-05-01",
+        "photo_url": "",
+        "_fid": "iss_001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3619,
+          38.119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 102,
+        "segment_fid": "seg_foro_003",
+        "issue_type": "faded_signage",
+        "severity": "low",
+        "status": "open",
+        "description": "Wayfinding signs are difficult to read",
+        "reported_by": "volunteer_team",
+        "reported_at": "2026-05-06",
+        "photo_url": "",
+        "tags": [
+          "signage",
+          "maintenance"
+        ],
+        "_fid": "iss_3e3c95f21a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3821,
+          38.1201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "",
+        "segment_fid": "",
+        "issue_type": "test",
+        "severity": "high",
+        "status": "open",
+        "description": "",
+        "reported_by": "",
+        "reported_at": "",
+        "photo_url": "",
+        "_fid": "iss_d45f8ef6ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356049,
+          38.116782
+        ]
+      }
+    }
+  ]
+}

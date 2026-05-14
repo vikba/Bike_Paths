@@ -1,0 +1,7016 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "TRATTO": "FORO ITALICO",
+        "TIPOLOGIA": "MONODIREZIONALE AMBO I LATI",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "649 DEL 24/04/2008",
+        "ANNO_ISTIT": "2008",
+        "DISTANZA__": "1.256.00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "016c83eee3ca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.37643,
+            38.115298
+          ],
+          [
+            13.376721,
+            38.115439
+          ],
+          [
+            13.376912,
+            38.115529
+          ],
+          [
+            13.376906,
+            38.115362
+          ],
+          [
+            13.377452,
+            38.115587
+          ],
+          [
+            13.377431,
+            38.115725
+          ],
+          [
+            13.377261,
+            38.11594
+          ],
+          [
+            13.376913,
+            38.116313
+          ],
+          [
+            13.376132,
+            38.117136
+          ],
+          [
+            13.375598,
+            38.117637
+          ],
+          [
+            13.375043,
+            38.118231
+          ],
+          [
+            13.374359,
+            38.118846
+          ],
+          [
+            13.373862,
+            38.119288
+          ],
+          [
+            13.373633,
+            38.1193
+          ],
+          [
+            13.373387,
+            38.11918
+          ],
+          [
+            13.37255,
+            38.118828
+          ],
+          [
+            13.372459,
+            38.118783
+          ],
+          [
+            13.37297,
+            38.118108
+          ],
+          [
+            13.373206,
+            38.117828
+          ],
+          [
+            13.373666,
+            38.117363
+          ],
+          [
+            13.374145,
+            38.11692
+          ],
+          [
+            13.374667,
+            38.11655
+          ],
+          [
+            13.375329,
+            38.11608
+          ],
+          [
+            13.376449,
+            38.115298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "TRATTO": "VIA MESSINA MARINE (TRATTO EX RISTORANTE RENATO FLORIO)",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "bad",
+        "ORDINANAZA": "1451 DEL 13/12/2004",
+        "ANNO_ISTIT": 2000,
+        "DISTANZA__": "2.054,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "4a4b16bba71f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.405745,
+            38.098741
+          ],
+          [
+            13.405601,
+            38.098973
+          ],
+          [
+            13.405191,
+            38.099148
+          ],
+          [
+            13.403981,
+            38.099722
+          ],
+          [
+            13.40278,
+            38.100148
+          ],
+          [
+            13.40219,
+            38.100318
+          ],
+          [
+            13.401459,
+            38.100543
+          ],
+          [
+            13.400937,
+            38.100717
+          ],
+          [
+            13.400557,
+            38.100839
+          ],
+          [
+            13.400459,
+            38.100876
+          ],
+          [
+            13.399954,
+            38.101061
+          ],
+          [
+            13.399548,
+            38.101208
+          ],
+          [
+            13.399095,
+            38.101374
+          ],
+          [
+            13.398515,
+            38.101576
+          ],
+          [
+            13.398315,
+            38.101646
+          ],
+          [
+            13.398166,
+            38.1017
+          ],
+          [
+            13.39798,
+            38.10175
+          ],
+          [
+            13.397758,
+            38.101808
+          ],
+          [
+            13.397444,
+            38.101893
+          ],
+          [
+            13.397322,
+            38.101926
+          ],
+          [
+            13.397068,
+            38.102004
+          ],
+          [
+            13.396803,
+            38.102102
+          ],
+          [
+            13.396712,
+            38.102135
+          ],
+          [
+            13.396174,
+            38.102329
+          ],
+          [
+            13.395768,
+            38.102482
+          ],
+          [
+            13.395651,
+            38.102525
+          ],
+          [
+            13.395335,
+            38.102636
+          ],
+          [
+            13.395186,
+            38.102689
+          ],
+          [
+            13.394641,
+            38.102888
+          ],
+          [
+            13.39427,
+            38.103027
+          ],
+          [
+            13.393961,
+            38.103135
+          ],
+          [
+            13.393545,
+            38.103279
+          ],
+          [
+            13.39335,
+            38.10336
+          ],
+          [
+            13.392881,
+            38.103556
+          ],
+          [
+            13.392447,
+            38.103736
+          ],
+          [
+            13.39225,
+            38.103818
+          ],
+          [
+            13.392003,
+            38.103914
+          ],
+          [
+            13.391561,
+            38.104102
+          ],
+          [
+            13.391192,
+            38.104269
+          ],
+          [
+            13.390704,
+            38.104502
+          ],
+          [
+            13.390192,
+            38.104748
+          ],
+          [
+            13.389623,
+            38.105032
+          ],
+          [
+            13.389313,
+            38.105189
+          ],
+          [
+            13.389251,
+            38.105221
+          ],
+          [
+            13.38875,
+            38.105474
+          ],
+          [
+            13.388395,
+            38.105645
+          ],
+          [
+            13.38815,
+            38.105746
+          ],
+          [
+            13.387945,
+            38.105818
+          ],
+          [
+            13.387689,
+            38.105909
+          ],
+          [
+            13.387421,
+            38.105981
+          ],
+          [
+            13.387025,
+            38.106097
+          ],
+          [
+            13.386883,
+            38.106138
+          ],
+          [
+            13.386845,
+            38.106149
+          ],
+          [
+            13.386459,
+            38.106252
+          ],
+          [
+            13.385916,
+            38.106402
+          ],
+          [
+            13.385592,
+            38.106494
+          ],
+          [
+            13.385492,
+            38.106522
+          ],
+          [
+            13.385264,
+            38.106604
+          ],
+          [
+            13.385083,
+            38.106636
+          ],
+          [
+            13.38484,
+            38.106699
+          ],
+          [
+            13.384688,
+            38.106713
+          ],
+          [
+            13.384607,
+            38.10672
+          ],
+          [
+            13.384534,
+            38.106718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "TRATTO": "VIA MARGHERITA DI SAVOIA (TRATTO VIA VENERE - PIAZZA VALDESI)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "448 DEL 08/06/2004",
+        "ANNO_ISTIT": "2004",
+        "DISTANZA__": "680.00",
+        "OD_ZA_PGTU": "668 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "676beef51522"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.332866,
+            38.19094
+          ],
+          [
+            13.332832,
+            38.191171
+          ],
+          [
+            13.332805,
+            38.191382
+          ],
+          [
+            13.332768,
+            38.191588
+          ],
+          [
+            13.332747,
+            38.19169
+          ],
+          [
+            13.332737,
+            38.19175
+          ],
+          [
+            13.332713,
+            38.191902
+          ],
+          [
+            13.332662,
+            38.19222
+          ],
+          [
+            13.332658,
+            38.192248
+          ],
+          [
+            13.332618,
+            38.192514
+          ],
+          [
+            13.332581,
+            38.192798
+          ],
+          [
+            13.332531,
+            38.193184
+          ],
+          [
+            13.332477,
+            38.193433
+          ],
+          [
+            13.332476,
+            38.193493
+          ],
+          [
+            13.332451,
+            38.193649
+          ],
+          [
+            13.332398,
+            38.194003
+          ],
+          [
+            13.33231,
+            38.194558
+          ],
+          [
+            13.332165,
+            38.195491
+          ],
+          [
+            13.332099,
+            38.195893
+          ],
+          [
+            13.332053,
+            38.196184
+          ],
+          [
+            13.332014,
+            38.196496
+          ],
+          [
+            13.332004,
+            38.196566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "TRATTO": "VIA MARGHERITA DI SAVOIA (TRATTO VIA VENERE - PIAZZA VALDESI)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "448 DEL 08/06/2004",
+        "ANNO_ISTIT": "2004",
+        "DISTANZA__": "680.00",
+        "OD_ZA_PGTU": "668 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "aac105d7c401"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.331778,
+            38.196558
+          ],
+          [
+            13.331807,
+            38.196407
+          ],
+          [
+            13.331855,
+            38.196129
+          ],
+          [
+            13.331911,
+            38.195762
+          ],
+          [
+            13.331928,
+            38.195667
+          ],
+          [
+            13.331978,
+            38.195355
+          ],
+          [
+            13.331987,
+            38.195298
+          ],
+          [
+            13.332015,
+            38.195089
+          ],
+          [
+            13.332072,
+            38.194748
+          ],
+          [
+            13.332117,
+            38.194429
+          ],
+          [
+            13.332194,
+            38.193945
+          ],
+          [
+            13.332238,
+            38.193681
+          ],
+          [
+            13.332273,
+            38.19342
+          ],
+          [
+            13.332351,
+            38.1929
+          ],
+          [
+            13.332406,
+            38.192559
+          ],
+          [
+            13.332446,
+            38.192305
+          ],
+          [
+            13.332482,
+            38.192089
+          ],
+          [
+            13.332545,
+            38.191617
+          ],
+          [
+            13.332618,
+            38.191163
+          ],
+          [
+            13.332641,
+            38.191032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "TRATTO": "VIA BORREMANS",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "238.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "a7d5a034c66d"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.334237,
+            38.132714
+          ],
+          [
+            13.335183,
+            38.132927
+          ],
+          [
+            13.335289,
+            38.132954
+          ],
+          [
+            13.335345,
+            38.13293
+          ],
+          [
+            13.335982,
+            38.133082
+          ],
+          [
+            13.336819,
+            38.13327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "TRATTO": "VIA BORREMANS",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "238.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "ae8ba6a815ef"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.334306,
+            38.132526
+          ],
+          [
+            13.334747,
+            38.132627
+          ],
+          [
+            13.335426,
+            38.132788
+          ],
+          [
+            13.335931,
+            38.132902
+          ],
+          [
+            13.336887,
+            38.13311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 9,
+        "TRATTO": "VIA ZANDONAI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "259.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "128a946c09e5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.336822,
+            38.133272
+          ],
+          [
+            13.337132,
+            38.133323
+          ],
+          [
+            13.338175,
+            38.133547
+          ],
+          [
+            13.33847,
+            38.133638
+          ],
+          [
+            13.339635,
+            38.133895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 10,
+        "TRATTO": "VIA ZANDONAI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "259.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "cf4573518662"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.336891,
+            38.13311
+          ],
+          [
+            13.337186,
+            38.133188
+          ],
+          [
+            13.337376,
+            38.133237
+          ],
+          [
+            13.338014,
+            38.133361
+          ],
+          [
+            13.338629,
+            38.1335
+          ],
+          [
+            13.339417,
+            38.133662
+          ],
+          [
+            13.339521,
+            38.133673
+          ],
+          [
+            13.339714,
+            38.13372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 11,
+        "TRATTO": "VIA UMBERTO GIORDANO",
+        "TIPOLOGIA": "PERCORSO PROMISCUO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "270.00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "510002219f77"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.339712,
+            38.13381
+          ],
+          [
+            13.339761,
+            38.133823
+          ],
+          [
+            13.339832,
+            38.133603
+          ],
+          [
+            13.340143,
+            38.132799
+          ],
+          [
+            13.339875,
+            38.133494
+          ],
+          [
+            13.340345,
+            38.13358
+          ],
+          [
+            13.340138,
+            38.132809
+          ],
+          [
+            13.340252,
+            38.13241
+          ],
+          [
+            13.340601,
+            38.13146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 12,
+        "TRATTO": "VIA NOTARBARTOLO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "150.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "2f2f90aee46d"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3406,
+            38.131462
+          ],
+          [
+            13.340614,
+            38.131444
+          ],
+          [
+            13.340977,
+            38.131532
+          ],
+          [
+            13.341569,
+            38.131678
+          ],
+          [
+            13.342199,
+            38.131847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 13,
+        "TRATTO": "VIA NOTARBARTOLO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "150.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "7d55c643fb5b"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.340679,
+            38.131458
+          ],
+          [
+            13.34073,
+            38.131319
+          ],
+          [
+            13.341001,
+            38.131389
+          ],
+          [
+            13.341572,
+            38.131535
+          ],
+          [
+            13.34204,
+            38.131651
+          ],
+          [
+            13.342584,
+            38.131788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 14,
+        "TRATTO": "PIAZZA M.M. BOIARDO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "207.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "b4d8ea0ea796"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.342575,
+            38.131793
+          ],
+          [
+            13.342709,
+            38.132018
+          ],
+          [
+            13.342149,
+            38.132954
+          ],
+          [
+            13.342111,
+            38.133032
+          ],
+          [
+            13.342079,
+            38.133106
+          ],
+          [
+            13.342021,
+            38.133245
+          ],
+          [
+            13.341984,
+            38.133331
+          ],
+          [
+            13.341977,
+            38.133347
+          ],
+          [
+            13.34189,
+            38.133484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 15,
+        "TRATTO": "PIAZZA M.M. BOIARDO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "220.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "0a21203642f7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.342199,
+            38.131848
+          ],
+          [
+            13.342121,
+            38.132026
+          ],
+          [
+            13.342261,
+            38.132079
+          ],
+          [
+            13.342264,
+            38.132091
+          ],
+          [
+            13.342221,
+            38.1322
+          ],
+          [
+            13.342001,
+            38.132759
+          ],
+          [
+            13.341838,
+            38.13315
+          ],
+          [
+            13.341765,
+            38.133134
+          ],
+          [
+            13.341645,
+            38.133393
+          ],
+          [
+            13.34189,
+            38.133484
+          ],
+          [
+            13.34189,
+            38.133484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 16,
+        "TRATTO": "VIA PECORARO",
+        "TIPOLOGIA": "PERCORSO PROMISCUO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "274.00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "61bb2edad4aa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.341906,
+            38.133503
+          ],
+          [
+            13.341698,
+            38.134012
+          ],
+          [
+            13.341378,
+            38.134746
+          ],
+          [
+            13.341259,
+            38.135053
+          ],
+          [
+            13.341009,
+            38.135674
+          ],
+          [
+            13.340951,
+            38.135821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 17,
+        "TRATTO": "VIA G. GIUSTI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "335.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "59e77862f42a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.341029,
+            38.135835
+          ],
+          [
+            13.341318,
+            38.135946
+          ],
+          [
+            13.34189,
+            38.136184
+          ],
+          [
+            13.342191,
+            38.136299
+          ],
+          [
+            13.343126,
+            38.136678
+          ],
+          [
+            13.34339,
+            38.136785
+          ],
+          [
+            13.344032,
+            38.137037
+          ],
+          [
+            13.344045,
+            38.137011
+          ],
+          [
+            13.344207,
+            38.137091
+          ],
+          [
+            13.344118,
+            38.13722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 18,
+        "TRATTO": "VIA G. GIUSTI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2001",
+        "DISTANZA__": "320.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "4861f5fd7873"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.340953,
+            38.135948
+          ],
+          [
+            13.341229,
+            38.136039
+          ],
+          [
+            13.342067,
+            38.136365
+          ],
+          [
+            13.342928,
+            38.136714
+          ],
+          [
+            13.343204,
+            38.136837
+          ],
+          [
+            13.343532,
+            38.136957
+          ],
+          [
+            13.343972,
+            38.13713
+          ],
+          [
+            13.343955,
+            38.137159
+          ],
+          [
+            13.344118,
+            38.13722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 19,
+        "TRATTO": "PIAZZA UNITA' D'ITALIA",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "80.74",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "dd91d6833696"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.344118,
+            38.13722
+          ],
+          [
+            13.344321,
+            38.137533
+          ],
+          [
+            13.344371,
+            38.13755
+          ],
+          [
+            13.344483,
+            38.137597
+          ],
+          [
+            13.344364,
+            38.13779
+          ],
+          [
+            13.344362,
+            38.137792
+          ],
+          [
+            13.344361,
+            38.137793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 20,
+        "TRATTO": "VIA G. D'ANNUNZIO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "234.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "b1e8bbab1c98"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.344361,
+            38.137793
+          ],
+          [
+            13.344901,
+            38.138006
+          ],
+          [
+            13.345278,
+            38.138157
+          ],
+          [
+            13.346101,
+            38.138486
+          ],
+          [
+            13.346462,
+            38.138624
+          ],
+          [
+            13.3465,
+            38.13864
+          ],
+          [
+            13.346524,
+            38.138634
+          ],
+          [
+            13.346548,
+            38.138614
+          ],
+          [
+            13.346715,
+            38.138695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 21,
+        "TRATTO": "VIA G. D'ANNUNZIO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "237.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "a1c422f9a4d7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.344264,
+            38.137955
+          ],
+          [
+            13.344278,
+            38.137936
+          ],
+          [
+            13.345059,
+            38.138237
+          ],
+          [
+            13.345752,
+            38.138511
+          ],
+          [
+            13.346166,
+            38.138684
+          ],
+          [
+            13.346399,
+            38.138778
+          ],
+          [
+            13.346501,
+            38.138637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 22,
+        "TRATTO": "VIA M. RUTELLI",
+        "TIPOLOGIA": "PERCORSO CICLOPEDONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "75.88",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "67509db447bb"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.346715,
+            38.138695
+          ],
+          [
+            13.346992,
+            38.13881
+          ],
+          [
+            13.347289,
+            38.138939
+          ],
+          [
+            13.347444,
+            38.139002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 23,
+        "TRATTO": "VIA M. RUTELLI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "179.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "cda6c5bfa6bd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.347444,
+            38.139002
+          ],
+          [
+            13.347857,
+            38.13917
+          ],
+          [
+            13.347869,
+            38.139154
+          ],
+          [
+            13.348046,
+            38.139233
+          ],
+          [
+            13.348741,
+            38.139512
+          ],
+          [
+            13.348746,
+            38.139496
+          ],
+          [
+            13.3491,
+            38.13964
+          ],
+          [
+            13.349196,
+            38.139681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 24,
+        "TRATTO": "VIA M. RUTELLI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "180.50",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "d91397fa25a3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.349055,
+            38.139891
+          ],
+          [
+            13.348686,
+            38.139759
+          ],
+          [
+            13.348588,
+            38.139695
+          ],
+          [
+            13.347967,
+            38.139431
+          ],
+          [
+            13.347723,
+            38.139326
+          ],
+          [
+            13.347228,
+            38.139138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 25,
+        "TRATTO": "VIA PACINOTTI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "334.86",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "b5f7f0101d1f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.336404,
+            38.12719
+          ],
+          [
+            13.336074,
+            38.127919
+          ],
+          [
+            13.335919,
+            38.128286
+          ],
+          [
+            13.335834,
+            38.12849
+          ],
+          [
+            13.335706,
+            38.128852
+          ],
+          [
+            13.335453,
+            38.129478
+          ],
+          [
+            13.335359,
+            38.129713
+          ],
+          [
+            13.335293,
+            38.129913
+          ],
+          [
+            13.335367,
+            38.129925
+          ],
+          [
+            13.335358,
+            38.129949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 26,
+        "TRATTO": "VIA PACINOTTI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "326.42",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "c592cb0a2c61"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.334849,
+            38.129826
+          ],
+          [
+            13.334856,
+            38.1298
+          ],
+          [
+            13.334889,
+            38.129816
+          ],
+          [
+            13.335327,
+            38.128752
+          ],
+          [
+            13.335447,
+            38.128474
+          ],
+          [
+            13.3358,
+            38.127641
+          ],
+          [
+            13.335977,
+            38.127195
+          ],
+          [
+            13.336019,
+            38.127085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 27,
+        "TRATTO": "VIA GALILEO GALILEI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "305.40",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "06cafb6bbdb1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.335358,
+            38.129949
+          ],
+          [
+            13.335283,
+            38.130108
+          ],
+          [
+            13.335248,
+            38.130135
+          ],
+          [
+            13.335202,
+            38.130178
+          ],
+          [
+            13.335059,
+            38.130537
+          ],
+          [
+            13.334898,
+            38.130917
+          ],
+          [
+            13.334798,
+            38.131091
+          ],
+          [
+            13.334744,
+            38.131246
+          ],
+          [
+            13.33457,
+            38.131749
+          ],
+          [
+            13.3344,
+            38.132231
+          ],
+          [
+            13.334304,
+            38.132492
+          ],
+          [
+            13.334295,
+            38.132523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 28,
+        "TRATTO": "VIA GALILEO GALILEI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "329.40",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "78a5a1f3a8c0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333574,
+            38.132242
+          ],
+          [
+            13.333866,
+            38.132301
+          ],
+          [
+            13.333939,
+            38.132316
+          ],
+          [
+            13.333957,
+            38.132294
+          ],
+          [
+            13.333987,
+            38.132231
+          ],
+          [
+            13.334111,
+            38.131896
+          ],
+          [
+            13.334266,
+            38.131458
+          ],
+          [
+            13.334412,
+            38.131073
+          ],
+          [
+            13.334499,
+            38.130826
+          ],
+          [
+            13.334594,
+            38.130586
+          ],
+          [
+            13.334702,
+            38.130313
+          ],
+          [
+            13.334824,
+            38.129995
+          ],
+          [
+            13.334795,
+            38.129993
+          ],
+          [
+            13.334849,
+            38.129825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 29,
+        "TRATTO": "VIA GALILEO GALILEI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "778.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "8726100093f5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333571,
+            38.132534
+          ],
+          [
+            13.333996,
+            38.132629
+          ],
+          [
+            13.333691,
+            38.133425
+          ],
+          [
+            13.333648,
+            38.133524
+          ],
+          [
+            13.333623,
+            38.133593
+          ],
+          [
+            13.333509,
+            38.133892
+          ],
+          [
+            13.333446,
+            38.134055
+          ],
+          [
+            13.333303,
+            38.134432
+          ],
+          [
+            13.333235,
+            38.134603
+          ],
+          [
+            13.333075,
+            38.134993
+          ],
+          [
+            13.332917,
+            38.135388
+          ],
+          [
+            13.332853,
+            38.135551
+          ],
+          [
+            13.332624,
+            38.136144
+          ],
+          [
+            13.332586,
+            38.136216
+          ],
+          [
+            13.332511,
+            38.136416
+          ],
+          [
+            13.332425,
+            38.136634
+          ],
+          [
+            13.332395,
+            38.136715
+          ],
+          [
+            13.332295,
+            38.136984
+          ],
+          [
+            13.33226,
+            38.137094
+          ],
+          [
+            13.332219,
+            38.137276
+          ],
+          [
+            13.33218,
+            38.137439
+          ],
+          [
+            13.332189,
+            38.137682
+          ],
+          [
+            13.332211,
+            38.137811
+          ],
+          [
+            13.332251,
+            38.138019
+          ],
+          [
+            13.332291,
+            38.138199
+          ],
+          [
+            13.332326,
+            38.138365
+          ],
+          [
+            13.332353,
+            38.138531
+          ],
+          [
+            13.332357,
+            38.138609
+          ],
+          [
+            13.332366,
+            38.138758
+          ],
+          [
+            13.332365,
+            38.138833
+          ],
+          [
+            13.332372,
+            38.139035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 30,
+        "TRATTO": "VIA GALILEO GALILEI",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "676.66",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "724c35479f86"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.332563,
+            38.138508
+          ],
+          [
+            13.332427,
+            38.137834
+          ],
+          [
+            13.33242,
+            38.137787
+          ],
+          [
+            13.332396,
+            38.137698
+          ],
+          [
+            13.332388,
+            38.13766
+          ],
+          [
+            13.332379,
+            38.13753
+          ],
+          [
+            13.332397,
+            38.137346
+          ],
+          [
+            13.332419,
+            38.137236
+          ],
+          [
+            13.332449,
+            38.137142
+          ],
+          [
+            13.332603,
+            38.136753
+          ],
+          [
+            13.332654,
+            38.136602
+          ],
+          [
+            13.33273,
+            38.136438
+          ],
+          [
+            13.332793,
+            38.13627
+          ],
+          [
+            13.332881,
+            38.136035
+          ],
+          [
+            13.33313,
+            38.135415
+          ],
+          [
+            13.333225,
+            38.135174
+          ],
+          [
+            13.333289,
+            38.135021
+          ],
+          [
+            13.333346,
+            38.134855
+          ],
+          [
+            13.333478,
+            38.134505
+          ],
+          [
+            13.333574,
+            38.134269
+          ],
+          [
+            13.33365,
+            38.134095
+          ],
+          [
+            13.333791,
+            38.133716
+          ],
+          [
+            13.333858,
+            38.133543
+          ],
+          [
+            13.334026,
+            38.13313
+          ],
+          [
+            13.334143,
+            38.132835
+          ],
+          [
+            13.334237,
+            38.132714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 31,
+        "TRATTO": "VIA DELL'AUTONOMIA SICILIANA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "773.78",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "71dda7715d7f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.349055,
+            38.139891
+          ],
+          [
+            13.349857,
+            38.140219
+          ],
+          [
+            13.350209,
+            38.140342
+          ],
+          [
+            13.350613,
+            38.140514
+          ],
+          [
+            13.350889,
+            38.140638
+          ],
+          [
+            13.351108,
+            38.14071
+          ],
+          [
+            13.351373,
+            38.140815
+          ],
+          [
+            13.351856,
+            38.141013
+          ],
+          [
+            13.352407,
+            38.141263
+          ],
+          [
+            13.352805,
+            38.141412
+          ],
+          [
+            13.352911,
+            38.14141
+          ],
+          [
+            13.353524,
+            38.141665
+          ],
+          [
+            13.353566,
+            38.141725
+          ],
+          [
+            13.353595,
+            38.141742
+          ],
+          [
+            13.353644,
+            38.141771
+          ],
+          [
+            13.354602,
+            38.142149
+          ],
+          [
+            13.355496,
+            38.142531
+          ],
+          [
+            13.355701,
+            38.14262
+          ],
+          [
+            13.356035,
+            38.142755
+          ],
+          [
+            13.356257,
+            38.142845
+          ],
+          [
+            13.356624,
+            38.142998
+          ],
+          [
+            13.356847,
+            38.143095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 32,
+        "TRATTO": "VIA DELL'AUTONOMIA SICILIANA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "778.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "b029acf80788"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.349196,
+            38.139681
+          ],
+          [
+            13.349343,
+            38.139762
+          ],
+          [
+            13.349603,
+            38.13987
+          ],
+          [
+            13.350216,
+            38.140104
+          ],
+          [
+            13.350802,
+            38.140362
+          ],
+          [
+            13.351028,
+            38.140441
+          ],
+          [
+            13.351237,
+            38.140533
+          ],
+          [
+            13.351999,
+            38.14084
+          ],
+          [
+            13.352582,
+            38.141078
+          ],
+          [
+            13.352971,
+            38.141259
+          ],
+          [
+            13.35301,
+            38.14131
+          ],
+          [
+            13.353569,
+            38.14156
+          ],
+          [
+            13.353693,
+            38.141554
+          ],
+          [
+            13.353845,
+            38.141617
+          ],
+          [
+            13.353918,
+            38.141648
+          ],
+          [
+            13.354687,
+            38.141968
+          ],
+          [
+            13.355267,
+            38.142209
+          ],
+          [
+            13.356035,
+            38.142525
+          ],
+          [
+            13.356146,
+            38.142574
+          ],
+          [
+            13.356403,
+            38.142685
+          ],
+          [
+            13.356749,
+            38.142833
+          ],
+          [
+            13.356979,
+            38.14293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 33,
+        "TRATTO": "PIAZZA GENERALE CASCINO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "77.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "7456ad6653a7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.356847,
+            38.143095
+          ],
+          [
+            13.356997,
+            38.143173
+          ],
+          [
+            13.357227,
+            38.143247
+          ],
+          [
+            13.357381,
+            38.143271
+          ],
+          [
+            13.357684,
+            38.143312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 34,
+        "TRATTO": "PIAZZA GENERALE CASCINO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "78.40",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "09f54de8e617"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.356979,
+            38.14293
+          ],
+          [
+            13.357127,
+            38.142995
+          ],
+          [
+            13.35735,
+            38.143062
+          ],
+          [
+            13.357557,
+            38.143119
+          ],
+          [
+            13.357719,
+            38.143148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 35,
+        "TRATTO": "VIA AMMIRAGLIO RIZZO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "885.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "728604d9bd56"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.357684,
+            38.143312
+          ],
+          [
+            13.35792,
+            38.143338
+          ],
+          [
+            13.358339,
+            38.143391
+          ],
+          [
+            13.358888,
+            38.143463
+          ],
+          [
+            13.359649,
+            38.143559
+          ],
+          [
+            13.359774,
+            38.143577
+          ],
+          [
+            13.360277,
+            38.143644
+          ],
+          [
+            13.360478,
+            38.143666
+          ],
+          [
+            13.360925,
+            38.143721
+          ],
+          [
+            13.361316,
+            38.143768
+          ],
+          [
+            13.361644,
+            38.143813
+          ],
+          [
+            13.361994,
+            38.143854
+          ],
+          [
+            13.362504,
+            38.143918
+          ],
+          [
+            13.362892,
+            38.143967
+          ],
+          [
+            13.363378,
+            38.144032
+          ],
+          [
+            13.363713,
+            38.144099
+          ],
+          [
+            13.36375,
+            38.144107
+          ],
+          [
+            13.364145,
+            38.144156
+          ],
+          [
+            13.365059,
+            38.144277
+          ],
+          [
+            13.365079,
+            38.144279
+          ],
+          [
+            13.365293,
+            38.144288
+          ],
+          [
+            13.365812,
+            38.144347
+          ],
+          [
+            13.365989,
+            38.144395
+          ],
+          [
+            13.366189,
+            38.144474
+          ],
+          [
+            13.366336,
+            38.144415
+          ],
+          [
+            13.366349,
+            38.144287
+          ],
+          [
+            13.366519,
+            38.144301
+          ],
+          [
+            13.366917,
+            38.144321
+          ],
+          [
+            13.367223,
+            38.144337
+          ],
+          [
+            13.367312,
+            38.144351
+          ],
+          [
+            13.367352,
+            38.144351
+          ],
+          [
+            13.367351,
+            38.144257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 36,
+        "TRATTO": "VIA AMMIRAGLIO RIZZO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "845.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "5adc04a22a79"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.367223,
+            38.144251
+          ],
+          [
+            13.366585,
+            38.144201
+          ],
+          [
+            13.366251,
+            38.144172
+          ],
+          [
+            13.365778,
+            38.144145
+          ],
+          [
+            13.36534,
+            38.144119
+          ],
+          [
+            13.364986,
+            38.144079
+          ],
+          [
+            13.36439,
+            38.144004
+          ],
+          [
+            13.363995,
+            38.143955
+          ],
+          [
+            13.36346,
+            38.143882
+          ],
+          [
+            13.363049,
+            38.143834
+          ],
+          [
+            13.362364,
+            38.143743
+          ],
+          [
+            13.361303,
+            38.143612
+          ],
+          [
+            13.360659,
+            38.143534
+          ],
+          [
+            13.35986,
+            38.143429
+          ],
+          [
+            13.359593,
+            38.143402
+          ],
+          [
+            13.358938,
+            38.143315
+          ],
+          [
+            13.358326,
+            38.143241
+          ],
+          [
+            13.357719,
+            38.143148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 37,
+        "TRATTO": "PIAZZA ACQUASANTA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "25.10",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "09dadc82e979"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.367351,
+            38.144257
+          ],
+          [
+            13.367342,
+            38.14422
+          ],
+          [
+            13.367337,
+            38.144199
+          ],
+          [
+            13.367361,
+            38.144175
+          ],
+          [
+            13.367421,
+            38.144117
+          ],
+          [
+            13.367469,
+            38.144079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 38,
+        "TRATTO": "PIAZZA ACQUASANTA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "42.55",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "0831b73b9d63"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.367223,
+            38.144251
+          ],
+          [
+            13.367224,
+            38.144214
+          ],
+          [
+            13.367237,
+            38.144192
+          ],
+          [
+            13.367285,
+            38.144136
+          ],
+          [
+            13.367301,
+            38.144109
+          ],
+          [
+            13.367171,
+            38.14392
+          ],
+          [
+            13.367179,
+            38.143921
+          ],
+          [
+            13.367176,
+            38.143921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 39,
+        "TRATTO": "VIA DON ORIONE",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "571.25",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "5522833597f3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.362734,
+            38.138924
+          ],
+          [
+            13.362758,
+            38.139077
+          ],
+          [
+            13.362735,
+            38.139216
+          ],
+          [
+            13.362675,
+            38.139509
+          ],
+          [
+            13.362595,
+            38.139695
+          ],
+          [
+            13.362529,
+            38.140037
+          ],
+          [
+            13.362422,
+            38.14
+          ],
+          [
+            13.362408,
+            38.140124
+          ],
+          [
+            13.362326,
+            38.140507
+          ],
+          [
+            13.362217,
+            38.141021
+          ],
+          [
+            13.36219,
+            38.141159
+          ],
+          [
+            13.362111,
+            38.141551
+          ],
+          [
+            13.362011,
+            38.141988
+          ],
+          [
+            13.361816,
+            38.142924
+          ],
+          [
+            13.361675,
+            38.143578
+          ],
+          [
+            13.361644,
+            38.143813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 40,
+        "TRATTO": "VIA DON ORIONE",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "560.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "73727f789003"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.361927,
+            38.143846
+          ],
+          [
+            13.361953,
+            38.143653
+          ],
+          [
+            13.361977,
+            38.143405
+          ],
+          [
+            13.362069,
+            38.14293
+          ],
+          [
+            13.362148,
+            38.142586
+          ],
+          [
+            13.362267,
+            38.142031
+          ],
+          [
+            13.362421,
+            38.141304
+          ],
+          [
+            13.362517,
+            38.140845
+          ],
+          [
+            13.362673,
+            38.140117
+          ],
+          [
+            13.362716,
+            38.139988
+          ],
+          [
+            13.362868,
+            38.13916
+          ],
+          [
+            13.362959,
+            38.138924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 41,
+        "TRATTO": "VIA AMILCARE BARCA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "235.75",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "fffae60ac4f7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.362734,
+            38.138924
+          ],
+          [
+            13.362774,
+            38.138765
+          ],
+          [
+            13.362868,
+            38.138769
+          ],
+          [
+            13.362973,
+            38.138519
+          ],
+          [
+            13.363064,
+            38.138271
+          ],
+          [
+            13.363125,
+            38.138133
+          ],
+          [
+            13.363192,
+            38.137957
+          ],
+          [
+            13.363282,
+            38.137766
+          ],
+          [
+            13.363369,
+            38.13749
+          ],
+          [
+            13.363506,
+            38.137158
+          ],
+          [
+            13.363595,
+            38.137024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 42,
+        "TRATTO": "VIA AMILCARE BARCA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "222.43",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "73404ab9505e"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.362959,
+            38.138924
+          ],
+          [
+            13.363035,
+            38.138726
+          ],
+          [
+            13.363154,
+            38.138432
+          ],
+          [
+            13.363189,
+            38.138305
+          ],
+          [
+            13.363269,
+            38.138121
+          ],
+          [
+            13.363317,
+            38.137998
+          ],
+          [
+            13.363475,
+            38.137591
+          ],
+          [
+            13.363613,
+            38.137231
+          ],
+          [
+            13.363627,
+            38.137195
+          ],
+          [
+            13.363677,
+            38.137196
+          ],
+          [
+            13.363756,
+            38.137069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 43,
+        "TRATTO": "VIA QUINTA CASA",
+        "TIPOLOGIA": "PERCORSO PROMISCUO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "86.63",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "6250893de88f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.363644,
+            38.137064
+          ],
+          [
+            13.363761,
+            38.136845
+          ],
+          [
+            13.363847,
+            38.13663
+          ],
+          [
+            13.363986,
+            38.136273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 44,
+        "TRATTO": "VIA QUINTA CASA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "68.00",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "767257a1ff2f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.363892,
+            38.13625
+          ],
+          [
+            13.363986,
+            38.136042
+          ],
+          [
+            13.364101,
+            38.135748
+          ],
+          [
+            13.364106,
+            38.135699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 45,
+        "TRATTO": "VIA QUINTA CASA",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "94.90",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "3b5a0ba8d5d0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.364002,
+            38.136337
+          ],
+          [
+            13.364131,
+            38.135998
+          ],
+          [
+            13.364231,
+            38.13574
+          ],
+          [
+            13.364278,
+            38.135644
+          ],
+          [
+            13.364321,
+            38.135535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 46,
+        "TRATTO": "VIA CRISTOFORO COLOMBO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "498.74",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "680039489fbd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.364106,
+            38.135699
+          ],
+          [
+            13.364031,
+            38.135662
+          ],
+          [
+            13.363695,
+            38.135583
+          ],
+          [
+            13.363098,
+            38.135419
+          ],
+          [
+            13.362501,
+            38.135257
+          ],
+          [
+            13.362198,
+            38.135168
+          ],
+          [
+            13.361827,
+            38.13507
+          ],
+          [
+            13.361528,
+            38.134991
+          ],
+          [
+            13.360902,
+            38.134826
+          ],
+          [
+            13.360705,
+            38.134771
+          ],
+          [
+            13.360188,
+            38.134633
+          ],
+          [
+            13.360046,
+            38.134595
+          ],
+          [
+            13.359715,
+            38.134504
+          ],
+          [
+            13.359127,
+            38.134351
+          ],
+          [
+            13.358911,
+            38.134302
+          ],
+          [
+            13.358876,
+            38.134292
+          ],
+          [
+            13.358859,
+            38.134322
+          ],
+          [
+            13.358706,
+            38.13429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 47,
+        "TRATTO": "VIA CRISTOFORO COLOMBO",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "898 DEL 31/08/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "511.71",
+        "OD_ZA_PGTU": "642 DEL 19/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "aca8e78dd9b0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.358888,
+            38.134125
+          ],
+          [
+            13.35889,
+            38.134141
+          ],
+          [
+            13.358898,
+            38.134151
+          ],
+          [
+            13.359012,
+            38.134181
+          ],
+          [
+            13.359422,
+            38.134293
+          ],
+          [
+            13.359902,
+            38.134428
+          ],
+          [
+            13.360328,
+            38.134546
+          ],
+          [
+            13.360388,
+            38.13456
+          ],
+          [
+            13.361038,
+            38.13473
+          ],
+          [
+            13.361915,
+            38.13497
+          ],
+          [
+            13.362589,
+            38.135145
+          ],
+          [
+            13.36303,
+            38.135262
+          ],
+          [
+            13.36356,
+            38.135407
+          ],
+          [
+            13.363852,
+            38.135483
+          ],
+          [
+            13.364044,
+            38.135441
+          ],
+          [
+            13.364321,
+            38.135535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 48,
+        "TRATTO": "VIA ARCHIRAFI",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "560.00",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "cdce4a121a92"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.374528,
+            38.108437
+          ],
+          [
+            13.371187,
+            38.112713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 50,
+        "TRATTO": "VIA LINCOLN",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "962.05",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "ebaa8b9434ef"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.367037,
+            38.110812
+          ],
+          [
+            13.368542,
+            38.11152
+          ],
+          [
+            13.371186,
+            38.112748
+          ],
+          [
+            13.374462,
+            38.114278
+          ],
+          [
+            13.37612,
+            38.115048
+          ],
+          [
+            13.376447,
+            38.115295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 51,
+        "TRATTO": "FORO UMBERTO I",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "223.00",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "c033bb22c08a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.372445,
+            38.118769
+          ],
+          [
+            13.371563,
+            38.119948
+          ],
+          [
+            13.371446,
+            38.120048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 52,
+        "TRATTO": "VIA CALA",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "549.00",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "3a891633f784"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.366673,
+            38.120244
+          ],
+          [
+            13.366753,
+            38.120094
+          ],
+          [
+            13.36681,
+            38.119832
+          ],
+          [
+            13.366896,
+            38.119419
+          ],
+          [
+            13.367132,
+            38.11916
+          ],
+          [
+            13.367354,
+            38.118961
+          ],
+          [
+            13.367612,
+            38.118863
+          ],
+          [
+            13.367983,
+            38.118848
+          ],
+          [
+            13.3682,
+            38.118862
+          ],
+          [
+            13.368541,
+            38.119018
+          ],
+          [
+            13.368794,
+            38.119173
+          ],
+          [
+            13.368944,
+            38.119326
+          ],
+          [
+            13.369134,
+            38.119369
+          ],
+          [
+            13.369361,
+            38.119534
+          ],
+          [
+            13.369727,
+            38.119711
+          ],
+          [
+            13.370044,
+            38.119826
+          ],
+          [
+            13.370526,
+            38.120035
+          ],
+          [
+            13.370843,
+            38.12015
+          ],
+          [
+            13.370957,
+            38.120182
+          ],
+          [
+            13.371085,
+            38.120184
+          ],
+          [
+            13.371316,
+            38.120147
+          ],
+          [
+            13.371458,
+            38.120058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 53,
+        "TRATTO": "VIA FRANCESCO CRISPI",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "bad",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": 2000,
+        "DISTANZA__": "1244.86",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "474cfce591a8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.360706,
+            38.130421
+          ],
+          [
+            13.361001,
+            38.129839
+          ],
+          [
+            13.361347,
+            38.129218
+          ],
+          [
+            13.361759,
+            38.128517
+          ],
+          [
+            13.362171,
+            38.127836
+          ],
+          [
+            13.362555,
+            38.127225
+          ],
+          [
+            13.363365,
+            38.125863
+          ],
+          [
+            13.364069,
+            38.124701
+          ],
+          [
+            13.364653,
+            38.12372
+          ],
+          [
+            13.365275,
+            38.122769
+          ],
+          [
+            13.365675,
+            38.122028
+          ],
+          [
+            13.366072,
+            38.121407
+          ],
+          [
+            13.36643,
+            38.120826
+          ],
+          [
+            13.366683,
+            38.120375
+          ],
+          [
+            13.366686,
+            38.120254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 54,
+        "TRATTO": "VIA PIANO DELL'UCCIARDONE",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "431.30",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "5695cbe8770f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.358979,
+            38.133911
+          ],
+          [
+            13.359204,
+            38.133591
+          ],
+          [
+            13.35947,
+            38.13311
+          ],
+          [
+            13.359911,
+            38.132278
+          ],
+          [
+            13.360458,
+            38.131245
+          ],
+          [
+            13.360633,
+            38.130864
+          ],
+          [
+            13.360746,
+            38.13035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 55,
+        "TRATTO": "VIA ISAC RABIN",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL 06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "521.81",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "32d7998c8a9e"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35759,
+            38.143309
+          ],
+          [
+            13.357384,
+            38.144621
+          ],
+          [
+            13.35711,
+            38.146304
+          ],
+          [
+            13.356986,
+            38.147245
+          ],
+          [
+            13.357414,
+            38.147856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 56,
+        "TRATTO": "VIA AMM. NICASTRO GUSTAVO",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL 06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "123.54",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "8af749504839"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.357335,
+            38.148136
+          ],
+          [
+            13.357362,
+            38.148223
+          ],
+          [
+            13.357419,
+            38.148274
+          ],
+          [
+            13.357517,
+            38.148298
+          ],
+          [
+            13.357663,
+            38.148254
+          ],
+          [
+            13.357767,
+            38.148219
+          ],
+          [
+            13.357866,
+            38.148198
+          ],
+          [
+            13.357837,
+            38.148059
+          ],
+          [
+            13.357706,
+            38.147988
+          ],
+          [
+            13.357414,
+            38.147867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 57,
+        "TRATTO": "VIA KING MARTIN LUTHER",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": null,
+        "DISTANZA__": "217.47",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "0d5ba5e8936c"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.357353,
+            38.148131
+          ],
+          [
+            13.357175,
+            38.148047
+          ],
+          [
+            13.356748,
+            38.147981
+          ],
+          [
+            13.355088,
+            38.147693
+          ],
+          [
+            13.354932,
+            38.147672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 58,
+        "TRATTO": "VIA DELLA FAVORITA",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "438 DEL06/05/2011",
+        "ANNO_ISTIT": "2011",
+        "DISTANZA__": "375.24",
+        "OD_ZA_PGTU": "667 DEL 22/05/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "38596fc2b352"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.354932,
+            38.147686
+          ],
+          [
+            13.354868,
+            38.147713
+          ],
+          [
+            13.354489,
+            38.148059
+          ],
+          [
+            13.354407,
+            38.148127
+          ],
+          [
+            13.354118,
+            38.148095
+          ],
+          [
+            13.35406,
+            38.148113
+          ],
+          [
+            13.353859,
+            38.148306
+          ],
+          [
+            13.353078,
+            38.14904
+          ],
+          [
+            13.352073,
+            38.149991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "TRATTO": "VIA OLIMPO (TRATTO PIAZZA SIMON BOLIVAR/PIAZZA CASTELFORTE)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1032 DEL 19/06/2001/1315 DEL 28/09/2009",
+        "ANNO_ISTIT": "2001",
+        "DISTANZA__": "1256.00",
+        "OD_ZA_PGTU": "767 DEL 12/06/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": 0,
+        "_fid": "ab2979f0f9f8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.301096,
+            38.188852
+          ],
+          [
+            13.314746,
+            38.188792
+          ],
+          [
+            13.315444,
+            38.188797
+          ],
+          [
+            13.315776,
+            38.188797
+          ],
+          [
+            13.316391,
+            38.188796
+          ],
+          [
+            13.317696,
+            38.188787
+          ],
+          [
+            13.318404,
+            38.188788
+          ],
+          [
+            13.319239,
+            38.188791
+          ],
+          [
+            13.320053,
+            38.188787
+          ],
+          [
+            13.320752,
+            38.188782
+          ],
+          [
+            13.321532,
+            38.188784
+          ],
+          [
+            13.321681,
+            38.188765
+          ],
+          [
+            13.321927,
+            38.1887
+          ],
+          [
+            13.322152,
+            38.188642
+          ],
+          [
+            13.322348,
+            38.188578
+          ],
+          [
+            13.322465,
+            38.188528
+          ],
+          [
+            13.322531,
+            38.188504
+          ],
+          [
+            13.322555,
+            38.188502
+          ],
+          [
+            13.322592,
+            38.1885
+          ],
+          [
+            13.322609,
+            38.188497
+          ],
+          [
+            13.322639,
+            38.188517
+          ],
+          [
+            13.322686,
+            38.188539
+          ],
+          [
+            13.322697,
+            38.188555
+          ],
+          [
+            13.322763,
+            38.188672
+          ],
+          [
+            13.322824,
+            38.188805
+          ],
+          [
+            13.322869,
+            38.188862
+          ],
+          [
+            13.322911,
+            38.18888
+          ],
+          [
+            13.322969,
+            38.188887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "TRATTO": "VIA OLIMPO (TRATTO VIA CASTELFORTE /PIAZZA SIMON BOLIVAR)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1032 DEL 19/06/2001/ 1315 DEL 28/09/2009",
+        "ANNO_ISTIT": "2001",
+        "DISTANZA__": "125600",
+        "OD_ZA_PGTU": "767 DEL 12/06/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": 0,
+        "_fid": "83c128aa573f"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.322979,
+            38.188957
+          ],
+          [
+            13.322861,
+            38.188941
+          ],
+          [
+            13.322784,
+            38.188947
+          ],
+          [
+            13.322726,
+            38.188946
+          ],
+          [
+            13.322523,
+            38.188998
+          ],
+          [
+            13.322464,
+            38.18905
+          ],
+          [
+            13.322404,
+            38.189103
+          ],
+          [
+            13.322383,
+            38.189122
+          ],
+          [
+            13.3223,
+            38.189152
+          ],
+          [
+            13.322248,
+            38.189156
+          ],
+          [
+            13.322221,
+            38.189151
+          ],
+          [
+            13.322188,
+            38.189147
+          ],
+          [
+            13.322148,
+            38.189132
+          ],
+          [
+            13.322112,
+            38.189101
+          ],
+          [
+            13.322085,
+            38.18908
+          ],
+          [
+            13.322068,
+            38.189066
+          ],
+          [
+            13.321981,
+            38.18902
+          ],
+          [
+            13.321924,
+            38.189011
+          ],
+          [
+            13.321854,
+            38.189008
+          ],
+          [
+            13.321457,
+            38.189005
+          ],
+          [
+            13.321196,
+            38.189014
+          ],
+          [
+            13.320936,
+            38.189012
+          ],
+          [
+            13.320583,
+            38.189019
+          ],
+          [
+            13.319992,
+            38.189028
+          ],
+          [
+            13.319217,
+            38.189037
+          ],
+          [
+            13.319183,
+            38.189038
+          ],
+          [
+            13.317495,
+            38.189035
+          ],
+          [
+            13.316951,
+            38.189042
+          ],
+          [
+            13.316602,
+            38.189043
+          ],
+          [
+            13.314984,
+            38.189049
+          ],
+          [
+            13.314954,
+            38.189049
+          ],
+          [
+            13.314179,
+            38.189051
+          ],
+          [
+            13.301068,
+            38.189063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "TRATTO": "VIA VENERE  (TRATTO VIALE MARGHERITA DI SAVOIA/ VIA CASTELFORTE)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1032 DEL 19/06/2001/ 426 DEL 03/05/2011",
+        "ANNO_ISTIT": "2001",
+        "DISTANZA__": "845.00",
+        "OD_ZA_PGTU": "739 DEL05/06/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "7261a3d063b1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.332733,
+            38.190652
+          ],
+          [
+            13.332649,
+            38.19054
+          ],
+          [
+            13.332543,
+            38.190427
+          ],
+          [
+            13.332467,
+            38.190337
+          ],
+          [
+            13.332357,
+            38.190242
+          ],
+          [
+            13.332226,
+            38.190191
+          ],
+          [
+            13.332105,
+            38.190177
+          ],
+          [
+            13.331956,
+            38.190154
+          ],
+          [
+            13.331808,
+            38.190131
+          ],
+          [
+            13.33125,
+            38.190058
+          ],
+          [
+            13.33019,
+            38.189915
+          ],
+          [
+            13.329847,
+            38.189871
+          ],
+          [
+            13.328433,
+            38.189674
+          ],
+          [
+            13.328185,
+            38.189637
+          ],
+          [
+            13.326948,
+            38.189462
+          ],
+          [
+            13.32681,
+            38.189446
+          ],
+          [
+            13.326377,
+            38.189384
+          ],
+          [
+            13.32517,
+            38.189214
+          ],
+          [
+            13.324959,
+            38.189186
+          ],
+          [
+            13.324583,
+            38.189131
+          ],
+          [
+            13.323901,
+            38.189066
+          ],
+          [
+            13.322975,
+            38.18896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "TRATTO": "VIA VENERE (TRATTO VIA CASTELFORTE /VIALE MARGHERITA DI SAVOIA)",
+        "TIPOLOGIA": "MONODIREZIONALE, CON PERCORSI DISTINTI DI ANDATA E RITORNO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1032 DEL 19/06/2001/ 426 DEL 03/05/2011",
+        "ANNO_ISTIT": "2001",
+        "DISTANZA__": "845.00",
+        "OD_ZA_PGTU": "739 DEL 05/06/2015",
+        "IST_OD_PGT": 2015,
+        "Attiva": null,
+        "_fid": "c79c1ea9463a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.322969,
+            38.188887
+          ],
+          [
+            13.322975,
+            38.188888
+          ],
+          [
+            13.323465,
+            38.188911
+          ],
+          [
+            13.324009,
+            38.188948
+          ],
+          [
+            13.324295,
+            38.188984
+          ],
+          [
+            13.32472,
+            38.189039
+          ],
+          [
+            13.325096,
+            38.189098
+          ],
+          [
+            13.325348,
+            38.189134
+          ],
+          [
+            13.325873,
+            38.18921
+          ],
+          [
+            13.326272,
+            38.189264
+          ],
+          [
+            13.326618,
+            38.189315
+          ],
+          [
+            13.327057,
+            38.189378
+          ],
+          [
+            13.327523,
+            38.189445
+          ],
+          [
+            13.32794,
+            38.189504
+          ],
+          [
+            13.328382,
+            38.189572
+          ],
+          [
+            13.328634,
+            38.189609
+          ],
+          [
+            13.329071,
+            38.189667
+          ],
+          [
+            13.329608,
+            38.189739
+          ],
+          [
+            13.330304,
+            38.189828
+          ],
+          [
+            13.330858,
+            38.189907
+          ],
+          [
+            13.331612,
+            38.190007
+          ],
+          [
+            13.33223,
+            38.190092
+          ],
+          [
+            13.332264,
+            38.190092
+          ],
+          [
+            13.332294,
+            38.190088
+          ],
+          [
+            13.332316,
+            38.19008
+          ],
+          [
+            13.332549,
+            38.189844
+          ],
+          [
+            13.332754,
+            38.189619
+          ],
+          [
+            13.33278,
+            38.189608
+          ],
+          [
+            13.332804,
+            38.189595
+          ],
+          [
+            13.332862,
+            38.189577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA ANADIOMENE-VIA TETI",
+        "TIPOLOGIA": "MONODIREZIONALE SU CORSIA RISERVATA",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "772 DEL 15/06/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "337.64",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "9d1e38e6b7df"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.325146,
+            38.20593
+          ],
+          [
+            13.325099,
+            38.205437
+          ],
+          [
+            13.325115,
+            38.205044
+          ],
+          [
+            13.325196,
+            38.204396
+          ],
+          [
+            13.325332,
+            38.203895
+          ],
+          [
+            13.325585,
+            38.203441
+          ],
+          [
+            13.325829,
+            38.2031
+          ],
+          [
+            13.326129,
+            38.202782
+          ],
+          [
+            13.326198,
+            38.202686
+          ],
+          [
+            13.326833,
+            38.201712
+          ],
+          [
+            13.326887,
+            38.201432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "PIAZZA VALDESI - VIA GLAUCO",
+        "TIPOLOGIA": "MONODIREZIONALE SU CORSIA RISERVATA",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "772 DEL 15/06/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "616.00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "b11a592c2914"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.32688,
+            38.201438
+          ],
+          [
+            13.327381,
+            38.20071
+          ],
+          [
+            13.327759,
+            38.200229
+          ],
+          [
+            13.328305,
+            38.199779
+          ],
+          [
+            13.32886,
+            38.19926
+          ],
+          [
+            13.330019,
+            38.198287
+          ],
+          [
+            13.330543,
+            38.197866
+          ],
+          [
+            13.331184,
+            38.1974
+          ],
+          [
+            13.331422,
+            38.197253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE PRINCIPE DI SCALEA",
+        "TIPOLOGIA": "MONODIREZIONALE SU CORSIA RISERVATA",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "772 DEL 15/06/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "1267,60",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "86f43fd9f315"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.323906,
+            38.205862
+          ],
+          [
+            13.323994,
+            38.205068
+          ],
+          [
+            13.324115,
+            38.204369
+          ],
+          [
+            13.324341,
+            38.203576
+          ],
+          [
+            13.324881,
+            38.202802
+          ],
+          [
+            13.324869,
+            38.202582
+          ],
+          [
+            13.324775,
+            38.202128
+          ],
+          [
+            13.324956,
+            38.201787
+          ],
+          [
+            13.325118,
+            38.20157
+          ],
+          [
+            13.325682,
+            38.201248
+          ],
+          [
+            13.32602,
+            38.200938
+          ],
+          [
+            13.326614,
+            38.200026
+          ],
+          [
+            13.327413,
+            38.19931
+          ],
+          [
+            13.328799,
+            38.198067
+          ],
+          [
+            13.32972,
+            38.197339
+          ],
+          [
+            13.330473,
+            38.197117
+          ],
+          [
+            13.33119,
+            38.196907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DANTE",
+        "TIPOLOGIA": "MONODIREZIONALE EQUIVERSA AL VIGENTE SENSO DI MARCIA",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1767  DEL 16/12/2015",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "1350,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "c69279848137"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3552,
+            38.124936
+          ],
+          [
+            13.354112,
+            38.124548
+          ],
+          [
+            13.353699,
+            38.124444
+          ],
+          [
+            13.352984,
+            38.124278
+          ],
+          [
+            13.351363,
+            38.123884
+          ],
+          [
+            13.349237,
+            38.123377
+          ],
+          [
+            13.34768,
+            38.12301
+          ],
+          [
+            13.346936,
+            38.12283
+          ],
+          [
+            13.344279,
+            38.122185
+          ],
+          [
+            13.342797,
+            38.121839
+          ],
+          [
+            13.340719,
+            38.121329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA PUGLISI BERTOLINO G.",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "120,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "e19dc8e076d8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.356832,
+            38.127513
+          ],
+          [
+            13.357429,
+            38.12657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA ISIDORO CARINI",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "200,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "bb1fe271cc5a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.356507,
+            38.127995
+          ],
+          [
+            13.355496,
+            38.129576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA PASQUALE CALVI",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "214,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "67b8f49d63f1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.355465,
+            38.129684
+          ],
+          [
+            13.354349,
+            38.131367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA GENERALE C.A. DALLA CHIESA",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "348,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "1d17bd97fdc2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.354266,
+            38.13151
+          ],
+          [
+            13.35247,
+            38.134252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE M. DI VILLABIANCA",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "900,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "ddc7c3a0c169"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.347679,
+            38.141517
+          ],
+          [
+            13.348957,
+            38.139507
+          ],
+          [
+            13.350287,
+            38.137457
+          ],
+          [
+            13.351031,
+            38.136318
+          ],
+          [
+            13.352296,
+            38.134385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE M. DI VILLABIANCA",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "900,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "001111803fe8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.347787,
+            38.141532
+          ],
+          [
+            13.349065,
+            38.139522
+          ],
+          [
+            13.350395,
+            38.137472
+          ],
+          [
+            13.351139,
+            38.136333
+          ],
+          [
+            13.352404,
+            38.1344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA M. DI ROCCAFORTE",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "334,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "e3689105aabd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.347663,
+            38.141672
+          ],
+          [
+            13.345919,
+            38.144328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DUCA DELLA VERDURA",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "600,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "e0920f7ae4ac"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.356339,
+            38.135321
+          ],
+          [
+            13.349917,
+            38.133695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA NOTARBARTOLO",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "400,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "e7e78ce4d7e2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34805,
+            38.133242
+          ],
+          [
+            13.343636,
+            38.132151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA G. SCIUTI",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "1205,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "6661e6c73965"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.337533,
+            38.141828
+          ],
+          [
+            13.339052,
+            38.139352
+          ],
+          [
+            13.339973,
+            38.137896
+          ],
+          [
+            13.34143,
+            38.135512
+          ],
+          [
+            13.341982,
+            38.134659
+          ],
+          [
+            13.343526,
+            38.13217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA E. RESTIVO",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "860,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "43b82acd5eca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333174,
+            38.148912
+          ],
+          [
+            13.33395,
+            38.14766
+          ],
+          [
+            13.335235,
+            38.145497
+          ],
+          [
+            13.335998,
+            38.144377
+          ],
+          [
+            13.337045,
+            38.142629
+          ],
+          [
+            13.337444,
+            38.141954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE STRASBURGO",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "1658,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "54b605b4b24e"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.32236,
+            38.161449
+          ],
+          [
+            13.323357,
+            38.160282
+          ],
+          [
+            13.323866,
+            38.159714
+          ],
+          [
+            13.324278,
+            38.159265
+          ],
+          [
+            13.325535,
+            38.157934
+          ],
+          [
+            13.326506,
+            38.15694
+          ],
+          [
+            13.328206,
+            38.155172
+          ],
+          [
+            13.330923,
+            38.152324
+          ],
+          [
+            13.331363,
+            38.151827
+          ],
+          [
+            13.331551,
+            38.15157
+          ],
+          [
+            13.331892,
+            38.151013
+          ],
+          [
+            13.332251,
+            38.150457
+          ],
+          [
+            13.33299,
+            38.149229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE LAZIO",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "1026,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "7b0f62bf1ec0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.332439,
+            38.140178
+          ],
+          [
+            13.339232,
+            38.142438
+          ],
+          [
+            13.343206,
+            38.143775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA GEN. DI GIORGIO",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "115,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "04cfb5edfb44"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.343405,
+            38.143832
+          ],
+          [
+            13.344601,
+            38.144235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "CORSO TUKORY",
+        "TIPOLOGIA": "PROMISCUO CONIL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "475,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "daff4003ad3e"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.365072,
+            38.110004
+          ],
+          [
+            13.36482,
+            38.109994
+          ],
+          [
+            13.364158,
+            38.109894
+          ],
+          [
+            13.3639,
+            38.109843
+          ],
+          [
+            13.363535,
+            38.109783
+          ],
+          [
+            13.36336,
+            38.109751
+          ],
+          [
+            13.362064,
+            38.109286
+          ],
+          [
+            13.361502,
+            38.109176
+          ],
+          [
+            13.360718,
+            38.109032
+          ],
+          [
+            13.359927,
+            38.108906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "PIAZZA PRINCIPE DI CAMPOREALE",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "180,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "f68c298d8703"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.341424,
+            38.119706
+          ],
+          [
+            13.341252,
+            38.119921
+          ],
+          [
+            13.341086,
+            38.120154
+          ],
+          [
+            13.340974,
+            38.120375
+          ],
+          [
+            13.340835,
+            38.120784
+          ],
+          [
+            13.340696,
+            38.121192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DANTE",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "1200,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "36b27a627ff0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.353907,
+            38.124417
+          ],
+          [
+            13.352993,
+            38.124206
+          ],
+          [
+            13.351372,
+            38.123812
+          ],
+          [
+            13.349247,
+            38.123305
+          ],
+          [
+            13.34769,
+            38.122937
+          ],
+          [
+            13.346946,
+            38.122758
+          ],
+          [
+            13.344289,
+            38.122113
+          ],
+          [
+            13.342806,
+            38.121767
+          ],
+          [
+            13.340728,
+            38.121256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA GOETHE",
+        "TIPOLOGIA": "PROMISCUO CON IL TRASPORTO PUBBLICO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1359 DEL 01/10/2015",
+        "ANNO_ISTIT": "2015",
+        "DISTANZA__": "240,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "b4611f7acbbb"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.350493,
+            38.121958
+          ],
+          [
+            13.350703,
+            38.120748
+          ],
+          [
+            13.350792,
+            38.119844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "PROLUNGAMENTO DI VIA DELLA FAVORITA",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "285 DEL 17/03/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "200,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "f4b125f75acc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.352092,
+            38.149993
+          ],
+          [
+            13.35069,
+            38.151316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE DIANA",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "good",
+        "ORDINANAZA": "285 DEL 17/03/2016",
+        "ANNO_ISTIT": 2000,
+        "DISTANZA__": "2630,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "6a23b00b5e85"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.337905,
+            38.172048
+          ],
+          [
+            13.33888,
+            38.169669
+          ],
+          [
+            13.339099,
+            38.167914
+          ],
+          [
+            13.339261,
+            38.166903
+          ],
+          [
+            13.339307,
+            38.166629
+          ],
+          [
+            13.339333,
+            38.16637
+          ],
+          [
+            13.339416,
+            38.166207
+          ],
+          [
+            13.340288,
+            38.164617
+          ],
+          [
+            13.341253,
+            38.162818
+          ],
+          [
+            13.343017,
+            38.159553
+          ],
+          [
+            13.343859,
+            38.157955
+          ],
+          [
+            13.344127,
+            38.15752
+          ],
+          [
+            13.344503,
+            38.157172
+          ],
+          [
+            13.345866,
+            38.155825
+          ],
+          [
+            13.347196,
+            38.15458
+          ],
+          [
+            13.348446,
+            38.153388
+          ],
+          [
+            13.350467,
+            38.151501
+          ],
+          [
+            13.35073,
+            38.151293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE MARGHERITA DI SAVOIA",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "285 DEL 17/03/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "460,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "984f6ab7a823"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.337905,
+            38.172016
+          ],
+          [
+            13.337595,
+            38.172741
+          ],
+          [
+            13.336356,
+            38.176009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE MARGHERITA DI SAVOIA",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "285 DEL 17/03/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "460,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "2e8393ef8db1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33629,
+            38.175987
+          ],
+          [
+            13.337786,
+            38.171951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE ERCOLE",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "285 DEL 17/03/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "3400,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "56b272c50cf5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.344009,
+            38.147138
+          ],
+          [
+            13.344803,
+            38.14753
+          ],
+          [
+            13.346634,
+            38.14876
+          ],
+          [
+            13.348649,
+            38.150183
+          ],
+          [
+            13.348645,
+            38.150383
+          ],
+          [
+            13.348368,
+            38.150781
+          ],
+          [
+            13.345938,
+            38.154106
+          ],
+          [
+            13.344172,
+            38.15649
+          ],
+          [
+            13.342556,
+            38.158718
+          ],
+          [
+            13.341065,
+            38.160746
+          ],
+          [
+            13.338732,
+            38.163883
+          ],
+          [
+            13.338,
+            38.164918
+          ],
+          [
+            13.337324,
+            38.165785
+          ],
+          [
+            13.335668,
+            38.168023
+          ],
+          [
+            13.335636,
+            38.168223
+          ],
+          [
+            13.335713,
+            38.168393
+          ],
+          [
+            13.335831,
+            38.168479
+          ],
+          [
+            13.336387,
+            38.168762
+          ],
+          [
+            13.337792,
+            38.169352
+          ],
+          [
+            13.338162,
+            38.169558
+          ],
+          [
+            13.338424,
+            38.169795
+          ],
+          [
+            13.33858,
+            38.170008
+          ],
+          [
+            13.338479,
+            38.170345
+          ],
+          [
+            13.337941,
+            38.171626
+          ],
+          [
+            13.3378,
+            38.171941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA SERRADIFALCO",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1202 DEL 06/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "125,44",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "99b864ddfd94"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34057,
+            38.121309
+          ],
+          [
+            13.340628,
+            38.12112
+          ],
+          [
+            13.340746,
+            38.120779
+          ],
+          [
+            13.340945,
+            38.120226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "PIAZZA PRINCIPE DI CAMPOREALE",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1202 DEL 06/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "243,85",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "63add8de03f4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.340949,
+            38.120223
+          ],
+          [
+            13.341129,
+            38.119974
+          ],
+          [
+            13.341424,
+            38.11956
+          ],
+          [
+            13.341718,
+            38.119176
+          ],
+          [
+            13.341579,
+            38.119072
+          ],
+          [
+            13.342379,
+            38.118519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "PIAZZA SACRO CUORE",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1202 DEL 06/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "59,00",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "8bb8e91fd97d"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.342375,
+            38.118525
+          ],
+          [
+            13.342573,
+            38.118356
+          ],
+          [
+            13.342852,
+            38.118141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA GUGLIELMO IL BUONO",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1202 DEL 06/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "134,47",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "d1499f2f09dc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.342856,
+            38.118141
+          ],
+          [
+            13.343285,
+            38.117822
+          ],
+          [
+            13.3437,
+            38.11748
+          ],
+          [
+            13.343797,
+            38.117401
+          ],
+          [
+            13.34459,
+            38.116834
+          ],
+          [
+            13.344475,
+            38.116769
+          ],
+          [
+            13.344662,
+            38.116263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "PROMISCUO PEDONALE E CICLABILE MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "125,60",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "563390a5d153"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.354861,
+            38.126083
+          ],
+          [
+            13.355506,
+            38.125101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "PROMISCUO PEDONALE E CICLABILE MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "124,46",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "80f9e0e8c811"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.354677,
+            38.126011
+          ],
+          [
+            13.355317,
+            38.125018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "MONODIREZIONALE SU CORSIA RISERVATA RICAVATA DAL MARCIAPIEDE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "521,60",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "9e19e1bd12e8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.354879,
+            38.126102
+          ],
+          [
+            13.354643,
+            38.126466
+          ],
+          [
+            13.35421,
+            38.127121
+          ],
+          [
+            13.353478,
+            38.12826
+          ],
+          [
+            13.35266,
+            38.129504
+          ],
+          [
+            13.352328,
+            38.130021
+          ],
+          [
+            13.352255,
+            38.130134
+          ],
+          [
+            13.352178,
+            38.130272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "MONODIREZIONALE SU CORSIA RISERVATA RICAVATA DAL MARCIAPIEDE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "526,76",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "6e34c8592aef"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.351884,
+            38.130125
+          ],
+          [
+            13.352114,
+            38.129808
+          ],
+          [
+            13.352204,
+            38.129849
+          ],
+          [
+            13.353274,
+            38.128192
+          ],
+          [
+            13.353967,
+            38.127138
+          ],
+          [
+            13.354686,
+            38.126045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "PROMISCUO PEDONALE E CICLABILE MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "424,10",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "316c799bc9ed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.349814,
+            38.133588
+          ],
+          [
+            13.35104,
+            38.131634
+          ],
+          [
+            13.351973,
+            38.130191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA DELLA LIBERTA'",
+        "TIPOLOGIA": "PROMISCUO PEDONALE E CICLABILE MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1225 DEL 13/10/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "417,28",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "ac5123ce7251"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.352219,
+            38.13028
+          ],
+          [
+            13.350003,
+            38.13363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA PAISIELLO",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1462 DEL 07/12/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "200,88",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "0a9a6131504c"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33091,
+            38.134397
+          ],
+          [
+            13.3324,
+            38.134721
+          ],
+          [
+            13.332583,
+            38.134782
+          ],
+          [
+            13.333126,
+            38.134918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA PAISIELLO",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "1462 DEL 07/12/2016",
+        "ANNO_ISTIT": "2016",
+        "DISTANZA__": "194,83",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "5c55d0f968b1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333058,
+            38.134993
+          ],
+          [
+            13.330893,
+            38.134495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE DEL FANTE",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "613 DEL 28/04/2017",
+        "ANNO_ISTIT": "2017",
+        "DISTANZA__": "275",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "a8043df78aa5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.343951,
+            38.14722
+          ],
+          [
+            13.342724,
+            38.149499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": null,
+        "TIPOLOGIA": "PON METRO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": null,
+        "ANNO_ISTIT": null,
+        "DISTANZA__": null,
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "305befb4882c"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.374424,
+            38.108536
+          ],
+          [
+            13.374412,
+            38.108315
+          ],
+          [
+            13.373956,
+            38.107647
+          ],
+          [
+            13.373651,
+            38.107258
+          ],
+          [
+            13.373362,
+            38.106909
+          ],
+          [
+            13.373333,
+            38.106661
+          ],
+          [
+            13.375225,
+            38.105461
+          ],
+          [
+            13.375292,
+            38.105586
+          ],
+          [
+            13.376964,
+            38.107193
+          ],
+          [
+            13.377595,
+            38.107822
+          ],
+          [
+            13.377117,
+            38.10816
+          ],
+          [
+            13.379165,
+            38.109372
+          ],
+          [
+            13.37951,
+            38.109529
+          ],
+          [
+            13.379615,
+            38.10953
+          ],
+          [
+            13.37981,
+            38.109381
+          ],
+          [
+            13.380751,
+            38.108582
+          ],
+          [
+            13.381693,
+            38.107782
+          ],
+          [
+            13.382101,
+            38.107457
+          ],
+          [
+            13.382652,
+            38.106996
+          ],
+          [
+            13.383074,
+            38.106823
+          ],
+          [
+            13.383598,
+            38.106775
+          ],
+          [
+            13.384452,
+            38.106759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": null,
+        "TIPOLOGIA": "PON METRO",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": null,
+        "ANNO_ISTIT": null,
+        "DISTANZA__": null,
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "13320fbdf2ec"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.405649,
+            38.098784
+          ],
+          [
+            13.40514,
+            38.098171
+          ],
+          [
+            13.404398,
+            38.097032
+          ],
+          [
+            13.404716,
+            38.096816
+          ],
+          [
+            13.409405,
+            38.095213
+          ],
+          [
+            13.411232,
+            38.094535
+          ],
+          [
+            13.411657,
+            38.095036
+          ],
+          [
+            13.412907,
+            38.096844
+          ],
+          [
+            13.413272,
+            38.097703
+          ],
+          [
+            13.413391,
+            38.097842
+          ],
+          [
+            13.41402,
+            38.097796
+          ],
+          [
+            13.41671,
+            38.097543
+          ],
+          [
+            13.418072,
+            38.097423
+          ],
+          [
+            13.419209,
+            38.097232
+          ],
+          [
+            13.420574,
+            38.096975
+          ],
+          [
+            13.421971,
+            38.096828
+          ],
+          [
+            13.422391,
+            38.096793
+          ],
+          [
+            13.423612,
+            38.09674
+          ],
+          [
+            13.424708,
+            38.096824
+          ],
+          [
+            13.425823,
+            38.096852
+          ],
+          [
+            13.427081,
+            38.096704
+          ],
+          [
+            13.428324,
+            38.096473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": null,
+        "TIPOLOGIA": "GREENWAY",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": null,
+        "ANNO_ISTIT": null,
+        "DISTANZA__": null,
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": 0,
+        "_fid": "2e4371d058a8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.335987,
+            38.135655
+          ],
+          [
+            13.334225,
+            38.135269
+          ],
+          [
+            13.333335,
+            38.135061
+          ],
+          [
+            13.331081,
+            38.134563
+          ],
+          [
+            13.329412,
+            38.134268
+          ],
+          [
+            13.32846,
+            38.134285
+          ],
+          [
+            13.327593,
+            38.133882
+          ],
+          [
+            13.32615,
+            38.132884
+          ],
+          [
+            13.324076,
+            38.131155
+          ],
+          [
+            13.319217,
+            38.128032
+          ],
+          [
+            13.314335,
+            38.12506
+          ],
+          [
+            13.313805,
+            38.124917
+          ],
+          [
+            13.312817,
+            38.124858
+          ],
+          [
+            13.310534,
+            38.124765
+          ],
+          [
+            13.304066,
+            38.124581
+          ],
+          [
+            13.300281,
+            38.124452
+          ],
+          [
+            13.299539,
+            38.124426
+          ],
+          [
+            13.298835,
+            38.124386
+          ],
+          [
+            13.298116,
+            38.124225
+          ],
+          [
+            13.297591,
+            38.123856
+          ],
+          [
+            13.297257,
+            38.12349
+          ],
+          [
+            13.297115,
+            38.123037
+          ],
+          [
+            13.297085,
+            38.122691
+          ],
+          [
+            13.297267,
+            38.122227
+          ],
+          [
+            13.297565,
+            38.12169
+          ],
+          [
+            13.298053,
+            38.121201
+          ],
+          [
+            13.298368,
+            38.120724
+          ],
+          [
+            13.298567,
+            38.120381
+          ],
+          [
+            13.298484,
+            38.119824
+          ],
+          [
+            13.298194,
+            38.119233
+          ],
+          [
+            13.297774,
+            38.118463
+          ],
+          [
+            13.29763,
+            38.118085
+          ],
+          [
+            13.297477,
+            38.117301
+          ],
+          [
+            13.297782,
+            38.115636
+          ],
+          [
+            13.298453,
+            38.114623
+          ],
+          [
+            13.299148,
+            38.113385
+          ],
+          [
+            13.299173,
+            38.113115
+          ],
+          [
+            13.300118,
+            38.111775
+          ],
+          [
+            13.300393,
+            38.111403
+          ],
+          [
+            13.301012,
+            38.110946
+          ],
+          [
+            13.302613,
+            38.110066
+          ],
+          [
+            13.303358,
+            38.109927
+          ],
+          [
+            13.303932,
+            38.1098
+          ],
+          [
+            13.304657,
+            38.109735
+          ],
+          [
+            13.305751,
+            38.109315
+          ],
+          [
+            13.306504,
+            38.108062
+          ],
+          [
+            13.306857,
+            38.107601
+          ],
+          [
+            13.308378,
+            38.106014
+          ],
+          [
+            13.308722,
+            38.105147
+          ],
+          [
+            13.309062,
+            38.103588
+          ],
+          [
+            13.309149,
+            38.102311
+          ],
+          [
+            13.308959,
+            38.101466
+          ],
+          [
+            13.3083,
+            38.100328
+          ],
+          [
+            13.307993,
+            38.099617
+          ],
+          [
+            13.307212,
+            38.097967
+          ],
+          [
+            13.306488,
+            38.096377
+          ],
+          [
+            13.305992,
+            38.095603
+          ],
+          [
+            13.305717,
+            38.094336
+          ],
+          [
+            13.305442,
+            38.093881
+          ],
+          [
+            13.304644,
+            38.092982
+          ],
+          [
+            13.304587,
+            38.092996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIA PRINCIPE DI VILLAFRANCA - VIA STRASBURGO",
+        "TIPOLOGIA": "BIDIREZIONALE",
+        "STATO": "good",
+        "ORDINANAZA": "461 DEL 30/06/2020 E 1008 DEL 19/11/2020",
+        "ANNO_ISTIT": 2000,
+        "DISTANZA__": "3500",
+        "OD_ZA_PGTU": "",
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "cb95bfa756db"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.352409,
+            38.124166
+          ],
+          [
+            13.351818,
+            38.125172
+          ],
+          [
+            13.351391,
+            38.125957
+          ],
+          [
+            13.351217,
+            38.126262
+          ],
+          [
+            13.350616,
+            38.127333
+          ],
+          [
+            13.350215,
+            38.128053
+          ],
+          [
+            13.349939,
+            38.128542
+          ],
+          [
+            13.349523,
+            38.129194
+          ],
+          [
+            13.349403,
+            38.129343
+          ],
+          [
+            13.349331,
+            38.12945
+          ],
+          [
+            13.348992,
+            38.129796
+          ],
+          [
+            13.348788,
+            38.13003
+          ],
+          [
+            13.348631,
+            38.130246
+          ],
+          [
+            13.348271,
+            38.130674
+          ],
+          [
+            13.348028,
+            38.130932
+          ],
+          [
+            13.34768,
+            38.131309
+          ],
+          [
+            13.347476,
+            38.131577
+          ],
+          [
+            13.347338,
+            38.131812
+          ],
+          [
+            13.34693,
+            38.132479
+          ],
+          [
+            13.346711,
+            38.132836
+          ],
+          [
+            13.346639,
+            38.132969
+          ],
+          [
+            13.346518,
+            38.133177
+          ],
+          [
+            13.346364,
+            38.133433
+          ],
+          [
+            13.346178,
+            38.133728
+          ],
+          [
+            13.345951,
+            38.134143
+          ],
+          [
+            13.345159,
+            38.135387
+          ],
+          [
+            13.344825,
+            38.135899
+          ],
+          [
+            13.344506,
+            38.136383
+          ],
+          [
+            13.344146,
+            38.136963
+          ],
+          [
+            13.343581,
+            38.137834
+          ],
+          [
+            13.342815,
+            38.138992
+          ],
+          [
+            13.342222,
+            38.139916
+          ],
+          [
+            13.341976,
+            38.140291
+          ],
+          [
+            13.341306,
+            38.141342
+          ],
+          [
+            13.340757,
+            38.142181
+          ],
+          [
+            13.340453,
+            38.142681
+          ],
+          [
+            13.340244,
+            38.14317
+          ],
+          [
+            13.339647,
+            38.144078
+          ],
+          [
+            13.339203,
+            38.144761
+          ],
+          [
+            13.33893,
+            38.145277
+          ],
+          [
+            13.33889,
+            38.145328
+          ],
+          [
+            13.33857,
+            38.145182
+          ],
+          [
+            13.338229,
+            38.145624
+          ],
+          [
+            13.337617,
+            38.146325
+          ],
+          [
+            13.336782,
+            38.147258
+          ],
+          [
+            13.336142,
+            38.147981
+          ],
+          [
+            13.335686,
+            38.148519
+          ],
+          [
+            13.335282,
+            38.149002
+          ],
+          [
+            13.334467,
+            38.149879
+          ],
+          [
+            13.333992,
+            38.150417
+          ],
+          [
+            13.333003,
+            38.15156
+          ],
+          [
+            13.332728,
+            38.15186
+          ],
+          [
+            13.332499,
+            38.152137
+          ],
+          [
+            13.332376,
+            38.152252
+          ],
+          [
+            13.331478,
+            38.151686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "TRATTO": "VIALE DEL FANTE",
+        "TIPOLOGIA": "MONODIREZIONALE",
+        "STATO": "SATISFACTORY",
+        "ORDINANAZA": "204  DEL 27/02/2018",
+        "ANNO_ISTIT": "2018",
+        "DISTANZA__": "710",
+        "OD_ZA_PGTU": null,
+        "IST_OD_PGT": 0,
+        "Attiva": null,
+        "_fid": "cfc539b53dce"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.338855,
+              38.155307
+            ],
+            [
+              13.338191,
+              38.156273
+            ],
+            [
+              13.337863,
+              38.156745
+            ]
+          ],
+          [
+            [
+              13.340232,
+              38.15345
+            ],
+            [
+              13.34029,
+              38.153532
+            ],
+            [
+              13.340209,
+              38.153679
+            ],
+            [
+              13.339603,
+              38.154529
+            ],
+            [
+              13.339229,
+              38.155053
+            ],
+            [
+              13.339086,
+              38.155246
+            ],
+            [
+              13.339,
+              38.155312
+            ],
+            [
+              13.338855,
+              38.155315
+            ]
+          ],
+          [
+            [
+              13.342725,
+              38.149499
+            ],
+            [
+              13.34226,
+              38.150289
+            ],
+            [
+              13.341813,
+              38.151117
+            ],
+            [
+              13.341556,
+              38.151495
+            ],
+            [
+              13.341337,
+              38.15184
+            ],
+            [
+              13.341013,
+              38.152279
+            ],
+            [
+              13.340238,
+              38.153432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.366692066192629,
+            38.10930301319026
+          ],
+          [
+            13.367024660110475,
+            38.10884715338855
+          ],
+          [
+            13.366209268569948,
+            38.10843350036589
+          ],
+          [
+            13.365200757980347,
+            38.10801140303019
+          ]
+        ]
+      },
+      "properties": {
+        "_fid": "seg_c1f083db60",
+        "STATO": "GOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.365125656127931,
+            38.10792276227983
+          ],
+          [
+            13.36366653442383,
+            38.1072685057957
+          ],
+          [
+            13.362995982170107,
+            38.106973033204795
+          ],
+          [
+            13.36236298084259,
+            38.10666067516636
+          ],
+          [
+            13.362239599227907,
+            38.10757664022464
+          ]
+        ]
+      },
+      "properties": {
+        "_fid": "seg_065d3f2b57",
+        "STATO": "GOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "",
+        "TRATTO": "test",
+        "TIPOLOGIA": "",
+        "STATO": "GOOD",
+        "ORDINANAZA": "",
+        "ANNO_ISTIT": "",
+        "DISTANZA__": "",
+        "OD_ZA_PGTU": "",
+        "IST_OD_PGT": "",
+        "Attiva": "",
+        "_fid": "seg_5bd4cc00af"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.361371,
+            38.115735
+          ],
+          [
+            13.35783,
+            38.11425
+          ],
+          [
+            13.354676,
+            38.113102
+          ],
+          [
+            13.352659,
+            38.112173
+          ]
+        ]
+      }
+    }
+  ]
+}
