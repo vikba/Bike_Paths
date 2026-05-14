@@ -317,6 +317,11 @@ function triggerDownload() {
 }
 
 function setupDrawTools() {
+  if (L.drawLocal?.draw?.toolbar?.buttons) {
+    L.drawLocal.draw.toolbar.buttons.polyline = "Draw Bike Path";
+    L.drawLocal.draw.toolbar.buttons.marker = "Add Issue";
+  }
+
   const editable = new L.FeatureGroup();
   state.map.addLayer(editable);
 
@@ -340,6 +345,18 @@ function setupDrawTools() {
   });
 
   state.map.addControl(drawControl);
+
+  const polylineButton = document.querySelector(".leaflet-draw-draw-polyline");
+  if (polylineButton) {
+    polylineButton.title = "Draw Bike Path";
+    polylineButton.setAttribute("aria-label", "Draw Bike Path");
+  }
+
+  const markerButton = document.querySelector(".leaflet-draw-draw-marker");
+  if (markerButton) {
+    markerButton.title = "Add Issue";
+    markerButton.setAttribute("aria-label", "Add Issue");
+  }
 
   state.map.on(L.Draw.Event.CREATED, (event) => {
     const { layerType, layer } = event;
